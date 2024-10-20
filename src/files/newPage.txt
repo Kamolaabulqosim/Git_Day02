@@ -3,3 +3,5 @@ new page also here
 im going to connect it to master
 
 Hmm why is it not merging?
+
+add new lines
