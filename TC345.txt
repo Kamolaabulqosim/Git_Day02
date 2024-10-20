@@ -6,3 +6,8 @@ what else
 
 smoke test
 // lest code more
+
+
+it is not seen on mirror?
+
+why?
