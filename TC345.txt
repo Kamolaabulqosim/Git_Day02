@@ -1,0 +1,8 @@
+testing function 345
+
+345 is good
+
+what else
+
+smoke test
+// lest code more
