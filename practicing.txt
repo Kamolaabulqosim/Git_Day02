@@ -1,1 +1,5 @@
-new practicing also added to master
+trying to merge
+
+code
+// java
+conflict to solve
